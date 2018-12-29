@@ -8,7 +8,7 @@ _This will place all adjacent files in their respective homes (**yourUsername**/
 
 Location | Filename
 --- | --- 
-Desktop | cleanup.bat, image.jpg, song.mp3, resume.docx
+Desktop | **cleanup.bat**, image.jpg, song.mp3, resume.docx
 Pictures | 
 Music | 
 Documents |
@@ -17,7 +17,7 @@ Documents |
 
 Location | Filename
 --- | --- 
-Desktop | cleanup.bat
+Desktop | **cleanup.bat**
 Pictures | image.jpg
 Music | song.mp3
 Documents | resume.docx
