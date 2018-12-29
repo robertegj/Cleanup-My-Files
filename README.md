@@ -4,7 +4,7 @@
 
 _This will place all adjacent files in their respective homes (**yourUsername**/Pictures, **yourUsername**/Music) on a Windows computer._
 
-For instance:
+**For instance:**
 
 Location | Filename
 --- | --- 
