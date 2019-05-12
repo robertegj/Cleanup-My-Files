@@ -6,6 +6,7 @@ This will place all adjacent files in their respective homes (**yourUsername**/P
 
 **For example:**
 _Before..._
+
 Location | Filename
 --- | --- 
 Desktop | **cleanup.bat**, image.jpg, song.mp3, resume.docx
@@ -15,6 +16,7 @@ Documents |
 
 
 _After..._
+
 Location | Filename
 --- | --- 
 Desktop | **cleanup.bat**
