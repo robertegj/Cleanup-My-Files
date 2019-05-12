@@ -23,3 +23,7 @@ Desktop | **cleanup.bat**
 Pictures | image.jpg
 Music | song.mp3
 Documents | resume.docx
+
+## Now cross platform!
+
+Grab 'cleanup' without the extension and use it on Windows or Linux!
