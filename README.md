@@ -2,10 +2,10 @@
 
 ## CMD.exe (batch file) based cleanup script. 
 
-_This will place all adjacent files in their respective homes (**yourUsername**/Pictures, **yourUsername**/Music) on a Windows computer._
+This will place all adjacent files in their respective homes (**yourUsername**/Pictures, **yourUsername**/Music) on a Windows computer.
 
-**For instance:**
-
+**For example:**
+_Before..._
 Location | Filename
 --- | --- 
 Desktop | **cleanup.bat**, image.jpg, song.mp3, resume.docx
@@ -13,8 +13,8 @@ Pictures |
 Music | 
 Documents |
 
-**becomes:**
 
+_After..._
 Location | Filename
 --- | --- 
 Desktop | **cleanup.bat**
