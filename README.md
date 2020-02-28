@@ -1,8 +1,11 @@
-# cleanup.bat
+# cleanupMyShit
 
-## CMD.exe (batch file) based cleanup script. 
+## a simple command to cleanup the current folder
+### tired of a messy desktop? how about any other folder? "clean it" with this!
 
 This will place all adjacent files in their respective homes (**yourUsername**/Pictures, **yourUsername**/Music) on a Windows computer.
+
+NOTE: Does not delete, or copy (no extra disk space used), just move(s)!
 
 **For example:**
 _Before..._
