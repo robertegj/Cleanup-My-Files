@@ -1,4 +1,4 @@
-# cleanupMyStuff
+# Cleanup My Files
 
 ## a simple command to cleanup the current folder
 ### tired of a messy desktop? how about any other folder? "clean it" with this!
