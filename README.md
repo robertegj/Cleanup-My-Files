@@ -1,7 +1,7 @@
 # Cleanup My Files
 
-## a simple command to cleanup the current folder
-### tired of a messy desktop? how about any other folder? "clean it" with this!
+## A simple command to cleanup the current folder
+### Tired of a messy desktop? how about any other folder? "Clean it" with this!
 
 This will place all adjacent files in their respective homes (**yourUsername**/Pictures, **yourUsername**/Music) on a Windows computer.
 
