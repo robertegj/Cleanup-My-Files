@@ -8,8 +8,9 @@ This will place all adjacent files in their respective homes (**yourUsername**/P
 NOTE: Does not delete, or copy (no extra disk space used), just move(s)!
 
 ## See it in action
+### As a batch file
 ![running as a batch file](https://github.com/robertegj/Cleanup-My-Files/blob/master/screenshot.gif)
-
+### As a command
 ![running as a command](https://github.com/robertegj/Cleanup-My-Files/blob/master/screenshot-cmd.gif)
 
 
