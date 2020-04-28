@@ -7,6 +7,12 @@ This will place all adjacent files in their respective homes (**yourUsername**/P
 
 NOTE: Does not delete, or copy (no extra disk space used), just move(s)!
 
+## See it in action
+![running as a batch file](http://github.com/guidryrj/Cleanup-My-Files/blob/master/screenshot.gif)
+
+![running as a command](http://github.com/guidryrj/Cleanup-My-Files/blob/master/screenshot-cmd.gif)
+
+
 **For example:**
 _Before..._
 

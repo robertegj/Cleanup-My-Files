@@ -1,4 +1,4 @@
-REM ---- We clean. 
+REM ---- Let's cleanup!
 REM ----------------------------------------------------
 REM ---- Place this anywhere (on a windows system), ----
 REM ---- and run it to sort all adjacent files      ----
@@ -38,6 +38,7 @@ move *.avi %urVideos%
 echo moving documents to %urDocuments%
 move *.txt %urDocuments%
 move *.docx %urDocuments%
+move *.doc %urDocuments%
 move *.xls %urDocuments%
 move *.doc %urDocuments%
 move *.pdf %urDocuments%
@@ -49,9 +50,8 @@ move *.htm %urDocuments%
 move *.html %urDocuments%
 move *.php %urDocuments%
 move *.ovpn %urDocuments%
+move *.ppt %urDocuments%
+move *.pptx %urDocuments%
+move *.dotx %urDocuments%
 
-title Cleaned!
-color 0a
-cls
-echo All clean! What do you think, %username%?
-pause
+
