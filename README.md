@@ -1,8 +1,9 @@
 # Cleanup My Files
 
-## A simple command to cleanup the current folder
-### Tired of a messy desktop? How about any other folder? "Clean it" with this!
+### A simple command to cleanup the current folder
+___
 
+Tired of a messy desktop? How about any other folder? "Clean it" with this!
 This will place all adjacent files in their respective homes (**yourUsername**/Pictures, **yourUsername**/Music) on a Windows computer.
 
 NOTE: Does not delete, or copy (no extra disk space used), just move(s)!
