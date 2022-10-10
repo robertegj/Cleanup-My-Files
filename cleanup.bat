@@ -20,6 +20,7 @@ move *.jpg %urPictures%
 move *.jpeg %urPictures%
 move *.gif %urPictures%
 move *.xcf %urPictures%
+move *.webp %urPictures%
 
 echo moving music to %urMusic%
 move *.mp3 %urMusic%
